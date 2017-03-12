@@ -1,0 +1,22 @@
+{
+  "name": "16-bangazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwatson615/node-foundations-bangazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwatson615/node-foundations-bangazon/issues"
+  },
+  "homepage": "https://github.com/mwatson615/node-foundations-bangazon#readme",
+  "dependencies": {
+    "sqlite": "^2.3.0"
+  }
+}
